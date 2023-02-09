@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adinarayana7008/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="adinarayana murthy bikkina" height="30" width="40" /></a>
-<a href="mailto:adinarayana7008@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="adinarayana murthy bikkina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
