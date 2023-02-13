@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://adinarayana7008.io)
+![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi 👋, My name is Adinarayana Murthy Bikkina</h1>
 <h3 align="center">A passionate Data Science analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://datasciencedistrict.nl/wp-content/uploads/2021/08/kissclipart-software-engineer-clipart-programmer-computer-soft-d3b78649ef4a485f.png">
