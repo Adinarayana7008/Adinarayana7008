@@ -7,7 +7,9 @@
 
 - I’m currently working as **Data Analyst at Cognizant**
 
-- Certified [AWS cloud practitioner](https://www.credly.com/badges/bf779e21-7186-482c-8a65-87620c498192)
+- Certifications
+  1. [AWS cloud practitioner](https://www.credly.com/badges/bf779e21-7186-482c-8a65-87620c498192)
+  2. [SnowPro Core Certification](https://www.credly.com/badges/b222b18d-81f6-4508-a8a6-8569cfb9975c/public_url)
 
 - I’m currently building **Projects**
 
